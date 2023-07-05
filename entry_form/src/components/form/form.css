@@ -1,0 +1,9 @@
+.form {
+  background-color: #dede;
+  padding: 30px;
+  display: flex;
+  flex-direction: column; /** the inputs were side by side, so I put them underneath each other..*/
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+}
